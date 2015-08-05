@@ -1,7 +1,7 @@
 #基础
 
 ## 框架图
-![](img/scheduler.png)
+![](../img/scheduler.png)
 
 ## schedulerUpdate
 ```
