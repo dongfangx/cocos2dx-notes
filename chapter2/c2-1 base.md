@@ -1,7 +1,7 @@
 #基础
 
 ## 框架图
-![](img/frame.png)
+![](../img/frame.png)
 
 ## Director
 ```
