@@ -6,4 +6,4 @@ Test1
 
 学习过程依照iOS开发路线图
 
-![学习路线图](img/ios开发路线图.png)
+![学习路线图](img/cocos2d-x.jpg)
