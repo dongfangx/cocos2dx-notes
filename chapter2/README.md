@@ -6,6 +6,6 @@
 5. Animation
 6. Bone
 7. ParticleSystemQuad
-8. Tile
+8. TileMap
 9. 适配
-10. Node Clip
+10. ClippingNode

@@ -9,20 +9,17 @@
    * [scheduler](chapter2/c2-2 scheduler.md)
    * [point](chapter2/c2-3 point.md)
    * [action](chapter2/c2-4 action.md)
-
+   * [animation](chapter2/c2-5 animation.md)
+   * [bone](chapter2/c2-6 bone.md)
+   * [psq](chapter2/c2-7 psq.md)
+   * [tilemap](chapter2/c2-8 tilemap.md)
+   * [ClippingNode](chapter2/c2-9 ClippingNode.md)
 
 * [3.UI](chapter2/README.md)
    * [UIButton](chapter2/c2-1 uibutton.md)
 * [4.声音](chapter2/README.md)
    * [UIButton](chapter2/c2-1 uibutton.md)
-* [5.网络](chapter2/README.md)
-   * [UIButton](chapter2/c2-1 uibutton.md)
-* [6.物理引擎](chapter2/README.md)
-   * [UIButton](chapter2/c2-1 uibutton.md)
-* [7.网络](chapter2/README.md)
-   * [UIButton](chapter2/c2-1 uibutton.md)
 
 
 
-
-
+   
