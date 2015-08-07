@@ -19,6 +19,7 @@
    * [Event](chapter3/c3-1 event.md)
    * [sqlite](chapter3/c3-2 sqlite.md)
    * [HttpClient](chapter3/c3-3 HttpClient.md)
+   * [Physics](chapter3/c3-4 Physics.md)
 
 * [4.声音](chapter2/README.md)
    * [UIButton](chapter2/c2-1 uibutton.md)
